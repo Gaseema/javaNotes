@@ -7,12 +7,12 @@
 
 >A method returns to the code that invoked it when it
 
-1.completes all the statements in the method,
+>1.completes all the statements in the method,
 
-2.reaches a return statement, or
+>2.reaches a return statement, or
 
-3.throws an exception (covered later),
+>3.throws an exception (covered later),
 
-whichever occurs first.
+>whichever occurs first.
 
 >You declare a method's return type in its method declaration. Within the body of the method, you use the return statement to return the value.
